@@ -35,9 +35,8 @@ body{
 
 .searchbuttons{
 
-	clear: both;
-	display: inline;
-
+	float: left;
+	margin-left: 5px;
 }
 
 .searchbuttons li {
