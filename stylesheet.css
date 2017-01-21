@@ -43,5 +43,17 @@ a:hover{
 	float: right;
 }
 
+.navbar-left img {
+
+	display: inline-block;
+}
+
+.navbar-left input{
+
+	display: inline-block;
+}
+
+
+
 
 
