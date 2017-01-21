@@ -29,12 +29,14 @@ body{
 .searchbar input{
 
 	display:inline;
+	margin: 2px 5px 2px 5px;
 
 }
 
 .searchbuttons{
 
 	clear: both;
+	display: inline;
 
 }
 
