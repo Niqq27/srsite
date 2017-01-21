@@ -32,9 +32,19 @@ body{
 
 }
 
+.searchbuttons{
+
+	clear: both;
+
+}
+
 .searchbuttons li a {
 
 	display: inline;
+	float: left;
+	margin-left: 5px;
 	clear: both;
+	margin-top: 2px;
+
 }
 
