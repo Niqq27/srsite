@@ -18,6 +18,8 @@ ul{
 .header{
 
 	background-color: grey;
+	margin: 2px 5px;
+	padding: 2px 5px;
 
 }
 
@@ -46,15 +48,15 @@ ul{
 
 .searchbuttons{
 
-	float: left;
+	
 	margin-left: 5px;
 
 }
 
 .searchbuttons li {
 
-	display: inline-block;
-	float: left;
+	
+	
 	margin-left: 5px;
 	clear: both;
 	margin-top: 2px;
@@ -66,5 +68,7 @@ ul{
 
 	text-decoration: none;
 	display: inline-block;
+	float: left;
+	text-align: left;
 }
 
