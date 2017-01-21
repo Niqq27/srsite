@@ -31,3 +31,10 @@ body{
 	display:inline;
 
 }
+
+.searchbuttons li a {
+
+	display: inline;
+	clear: both;
+}
+
