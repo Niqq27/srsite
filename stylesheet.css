@@ -58,8 +58,13 @@ ul{
 	margin-left: 5px;
 	clear: both;
 	margin-top: 2px;
-	text-align: left;
 	text-align: center;
 
+}
+
+.searchbuttons li a{
+
+	text-decoration: none;
+	display: inline-block;
 }
 
