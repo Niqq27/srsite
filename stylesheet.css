@@ -40,7 +40,7 @@ body{
 
 }
 
-.searchbuttons li a {
+.searchbuttons li {
 
 	display: inline;
 	float: left;
