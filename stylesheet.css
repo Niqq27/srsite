@@ -36,12 +36,14 @@ a:hover{
 
 #headerimg{
 
+	display: 
+
 	
 }
 
 .navbar li{
 
-	display: inline;
+	display: inline-block;
 
 }
 
@@ -59,7 +61,9 @@ a:hover{
 
 .searchbuttons li {
 
-	display: inline;
+	display: inline-block;
+	float: left;
+	
 
 
 }
