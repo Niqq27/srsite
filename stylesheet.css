@@ -30,53 +30,18 @@ a:hover{
 .header{
 
 	background-color: grey;
-	
 
 }
 
-#headerimg{
+.navbar-left{
 
-	display: inline-block;
-	float: ;
-
-	
+	float: left;
 }
 
-.navbar li{
+.navbar-right{
 
-	display: inline-block;
-
+	float: right;
 }
 
-.searchbar input{
 
-	
-	
-
-}
-
-.searchbuttons{
-	
-
-}
-
-.searchbuttons li {
-
-	
-	float:left;
-
-
-
-}
-
-.searchbuttons li a{
-
-	
-}
-
-.results{
-
-	background-color: white;
-
-}
 
