@@ -18,7 +18,7 @@ body{
 	margin-top: 2px;
 }
 
-.navbar{
+.navbar li{
 
 	display: inline;
 	float: right;
@@ -26,8 +26,8 @@ body{
 	margin-right: 2px;
 }
 
-.searchbar{
+.searchbar input{
 
 	display:inline;
-	
+
 }
