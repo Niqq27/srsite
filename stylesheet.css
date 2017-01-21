@@ -33,7 +33,11 @@ a:hover{
 
 }
 
-.navbar-left{
+.navbar-left {
+	float: left;
+}
+
+.navbar-left form {
 
 	float: left;
 }
@@ -41,18 +45,14 @@ a:hover{
 .navbar-right{
 
 	float: right;
-	clear: right;
+	
 }
 
 .navbar-left img {
 
-	display: inline-block;
+	float: left;
 }
 
-.navbar-left input{
-
-	display: inline-block;
-}
 
 .searchbuttons{
 
