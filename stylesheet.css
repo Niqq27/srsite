@@ -41,6 +41,7 @@ a:hover{
 .navbar-right{
 
 	float: right;
+	clear: right;
 }
 
 .navbar-left img {
@@ -56,6 +57,7 @@ a:hover{
 .searchbuttons{
 
 	clear: both;
+	float: left;
 }
 
 
