@@ -50,6 +50,8 @@ ul{
 
 	
 	margin-left: 5px;
+	clear: both;
+	margin-top: 5px;
 
 }
 
@@ -70,5 +72,6 @@ ul{
 	display: inline-block;
 	float: left;
 	text-align: left;
+	clear: both;
 }
 
